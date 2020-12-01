@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="ISO-8859-1">
+<title>Restaurant Result</title>
+<style type="text/css">
+	span {
+		display: inline-block;
+		width: 200px;
+		text-align: left;
+	}
+</style>
+</head>
+<body>
+	<div align="center">
+		<h2>Today, you should eat at:</h2>
+		<h3 th:text = "${resultName}"/>
+
+	</div>
+</body>
+</html>
