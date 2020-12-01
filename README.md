@@ -11,4 +11,4 @@ This will include account information with the ability to make changes as necess
 
 Restaurant Generator
 <br />
-This will allow the user to place filters such as category, distance, and price. It will then generate a suggested restaurant, taking their personalized information into consideration.
+This will allow the user to select restaurants to be fed into the generator. It will then generate a suggested restaurant, taking their personalized information into consideration.
